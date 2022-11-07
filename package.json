@@ -1,0 +1,24 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "css library",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "nil"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nil"
+  },
+  "keywords": [
+    "nil"
+  ],
+  "author": "alza85",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-purgecss": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0"
+  }
+}
